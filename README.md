@@ -1,13 +1,13 @@
 # LEAD MANAGER
 
-> This project is just the basic understanding of modern techs used for building Web Apps
+`This project is just the basic understanding of modern techs used for building Web Apps`
 
 * This project helps users to manage their leads.
 * Leads will be enlisted when user logs-in.
 * User can check, add, and delete leads.
 * To add lead user first need to register himeself and then login to the app.
 
-## TECH STACK
+### TECH STACK
 
 * **OS :** *Linux - Ubuntu*
 * **Frontend :** *JS Framework - React JS*
