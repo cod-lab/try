@@ -11,10 +11,12 @@
 
 | Category | Software |
 | -------- | ---------|
-| OS | *Ubuntu 18.04.4* `Linux` |
-| Frontend | *React 16.13.1* `JavaScript Framework` |
-| Backend | *Django 3.0.5* `Python Framework` |
+| OS | *Ubuntu 18.04.4* `[Linux]` |
+| Frontend | *React 16.13.1* `[JavaScript Framework]` |
+| Backend | *Django 3.0.5* `[Python Framework]` |
 | Database | *SQLite 3* |
+| IDE | *VS Code* |
+| API Manager(for testing api's) | *Postman*|
 
 <br>
 
