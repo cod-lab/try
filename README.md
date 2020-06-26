@@ -7,7 +7,7 @@
 * User can check, add, and delete leads.
 * To add lead user first need to register himeself and then login to the app.
 
-### TECH STACK
+## TECH STACK
 
 * **OS :** *Linux - Ubuntu*
 * **Frontend :** *JS Framework - React JS*
