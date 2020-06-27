@@ -11,9 +11,9 @@
 
 | Category | Software |
 | -------- | ---------|
-| OS | *Ubuntu 18.04.4* <font size="1px">[Linux]</font> |
-| Frontend | *React 16.13.1* <font size="1px">[JavaScript Framework]</font> |
-| Backend | *Django 3.0.5* <font size="1px">[Python Framework]</font> |
+| OS | *Ubuntu 18.04.4* <font size="2">[Linux]</font> |
+| Frontend | *React 16.13.1* <font size="2">[JavaScript Framework]</font> |
+| Backend | *Django 3.0.5* <font size="2">[Python Framework]</font> |
 | Database | *SQLite 3* |
 | IDE | *VS Code* |
 | API Manager(for testing api's) | *Postman*|
