@@ -21,3 +21,8 @@
 <br>
 
 > For more details about packages, libraries, and dependencies used in this app, please refer [Pipfile](https://github.com/cod-lab/django-react-redux_projects/blob/master/1_lead-manager/Pipfile) & [package.json](https://github.com/cod-lab/django-react-redux_projects/blob/master/1_lead-manager/package.json)
+
+
+### Latest Repos
+<!-- GITHUB-REPOS:START -->
+<!-- GITHUB-REPOS:END -->
