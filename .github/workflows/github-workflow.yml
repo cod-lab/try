@@ -1,0 +1,16 @@
+name: Latest Github Repositories
+on:
+  schedule:
+    # Runs once every month
+    - cron: '* * * 0 *'
+
+jobs:
+  update-readme-with-repos:
+    name: Update this repo's README with latest repos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          repos: "Repositories"
+          feed_list: "github.com/cod-lab"
