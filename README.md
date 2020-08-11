@@ -30,70 +30,8 @@
 
 <img align="left" alt="cod-lab's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cod-lab&show_icons=true&theme=synthwave" />
 
-<br><br><br><br>
 
-window.$docsify = {
-  executeScript: true
-};
-
-<script src='myscript.js'>{newline}</script>
-
-
-<section data-markdown>
-  <textarea data-template>,m sa,m x
-  </textarea>
-</section>
-
-
-
-<script src="myscript.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[my git latest 5 repos](README.html)
 
 
 [website]: https://github.com/cod-lab
