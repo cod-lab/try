@@ -1,3 +1,5 @@
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## Connect with me
@@ -24,9 +26,72 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br><br><br>
+<br><br>
 
 <img align="left" alt="cod-lab's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cod-lab&show_icons=true&theme=synthwave" />
+
+<br><br><br><br>
+
+window.$docsify = {
+  executeScript: true
+};
+
+<script src='myscript.js'>{newline}</script>
+
+
+<section data-markdown>
+  <textarea data-template>,m sa,m x
+  </textarea>
+</section>
+
+
+
+<script src="myscript.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40,18 +105,3 @@
 [hackerrank]: https://www.hackerrank.com/arihant4
 
 
-
-<!--
-**cod-lab/cod-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
