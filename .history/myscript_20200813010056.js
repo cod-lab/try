@@ -47,10 +47,9 @@ async function get5Repos() {
 const btnDisplay  = document.querySelector('btnDisplay');
 const btnDownload  = document.querySelector('btnDownload');
 const imgConverted  = document.querySelector('imgConverted');
-var myCanvas = document.getElementById('canvas');
-canvas  = document.querySelector('divResult');
+const myCanvas  = document.querySelector('divResult');
 
-const ctx = canvas.getContext("2d");
+const ctx = myCanvas.getContext("2d");
 
 ctx.font = "50px Roboto";
 ctx.fillstyle = "red";

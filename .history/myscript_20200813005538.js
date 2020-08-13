@@ -3,6 +3,24 @@
 
 window.addEventListener('load',get5Repos);
 
+const btnDisplay  = document.querySelector('btnDisplay');
+const btnDownload  = document.querySelector('btnDownload');
+const imgConverted  = document.querySelector('imgConverted');
+const myCanvas  = document.querySelector('divResult');
+
+const ctx = myCanvas.getContext('2d');
+
+ctx.font = "50px Roboto";
+ctx.fillstyle = "red";
+ctx.filltext('decode', 100,100);
+ctx.fillReact(200,150,150,75);
+
+btnDisplay.addEventListener('click',function() {
+    const dataURI = myCanvas.toDataURL();
+
+    console.log(dataURI);
+});
+
 const divResult = document.getElementById('divResult');
 
 async function get5Repos() {
@@ -44,22 +62,4 @@ async function get5Repos() {
 //         divResult.removeChild(divResult.firstChild);
 // }
 
-const btnDisplay  = document.querySelector('btnDisplay');
-const btnDownload  = document.querySelector('btnDownload');
-const imgConverted  = document.querySelector('imgConverted');
-var myCanvas = document.getElementById('canvas');
-canvas  = document.querySelector('divResult');
-
-const ctx = canvas.getContext("2d");
-
-ctx.font = "50px Roboto";
-ctx.fillstyle = "red";
-ctx.filltext('decode', 100,100);
-ctx.fillReact(200,150,150,75);
-
-btnDisplay.addEventListener('click',function() {
-    const dataURI = myCanvas.toDataURL();
-
-    console.log(dataURI);
-});
-
+console.log('this is js file');
