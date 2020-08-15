@@ -31,7 +31,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 ##### MY REPOS 1
 ![](https://github.com/uKnoiT/try_readme/blob/gh-pages/output.png)
-<br><br><br><br><br><br><br><br><br><br>
+
 
 [website]: https://github.com/cod-lab
 [mail]: mailto:arihantjain136@gmail.com
