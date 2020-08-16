@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-Want to <a href="" target="_self"><em>know more</em></a> about my automated profile page?
+Want to <a href="" target="_self"><em>know</em></a> about my automated profile page?
 </p>
 
 
