@@ -1,5 +1,5 @@
 {
     "editor.fontFamily": "menlo",
-    "editor.fontSize": 12,
-    "terminal.integrated.fontFamily": "menlo"
+    "terminal.integrated.fontFamily": "menlo",
+    "editor.fontSize": 13
 }
