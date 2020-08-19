@@ -56,8 +56,8 @@
 <p align="center">
 <img alt="cod-lab's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cod-lab&show_icons=true&hide_border=true" />
 </p>
-<hr height="1px">
 
+##
 Want to [_know_]() about my automated profile page?
 
 <!-- Want to <a href="" target="_self"><em>know</em></a> about my automated profile page? -->
