@@ -58,7 +58,7 @@
 </p>
 
 ##
-Want to [_know_]() about my automated profile page?
+&nbsp;Want to [_know_]() about my automated profile page?
 
 <!-- Want to <a href="" target="_self"><em>know</em></a> about my automated profile page? -->
 
