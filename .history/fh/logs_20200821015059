@@ -1,0 +1,8 @@
+{
+	1: {'time': 'FileNotFoundError'},
+	2: {'time': 'ConnectTimeout'},
+	3: {'time': 'FileNotFoundError'},
+	4: {'time': 'ConnectTimeout'},
+	5: {'time': 'FileNotFoundError'},
+	6: {'time': 'ConnectTimeout'},
+}
