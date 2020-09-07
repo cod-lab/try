@@ -22,7 +22,7 @@ To display your latest repos which must be updated automatically you need two th
 - `a program which runs automatically and performs the instructions you have written in .yml file.`
   <!-- - the program probably known as CI/CL. -->
   - github provides free/premium CI/CL to do your job for you.
-  - you have to create workflow file "reponame"/.github/workflows/"filename".yml
+  - you have to create workflow file "reponame"/.github/workflows/"filename".yml.
   - in a workflow file there will be series of instructions which will be performed automatically on occurance of any defined event or at any particular interval of time.  <!-- write to run automatically on occurance of any defined event or at any particular period of time. -->
   - [my workflow](https://github.com/cod-lab/cod-lab/blob/master/.github/workflows/readme-profile.yml) file runs the script at particular time on set days of every month. this workflow will commmit changes only if there will be any updation in the repository.
   <!-- - you can refer my [yml] file. -->
