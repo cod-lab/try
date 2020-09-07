@@ -1,6 +1,6 @@
 <h1 align=center>Self Updating README</h1>
 
-### 1. Github Status Cards
+### <ins>1. Github Status Cards</ins>
 - The image you see on the top right and the bottom can be created for anyone.
 - Just add these links in your README (with your username):
 - Top Image: <br> <img align="" width="15%" src="top.jpg" />
@@ -12,7 +12,7 @@
 
 <br>
 
-### 2. Latest Github Repos
+### <u>2. Latest Github Repos</u>
 To display your latest repos which must be updated automatically you need two things:
 
 - `a script which can update your README if there is any update.`
