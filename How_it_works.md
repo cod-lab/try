@@ -5,7 +5,7 @@
 - Just add these links in your README (with your username):
 - Top Image: <br> <img align="" width="15%" src="top.jpg" />
 - `<img align="right" alt="Top Langs" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username="username"&theme=solarized-light" />`
-- Bottom Image: <br> <img align="" width="25%" src="bottom.jpg" />
+- Bottom Image: <br> <b><img align="" width="25%" src="bottom.jpg" /></b>
 - `<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username="username"&show_icons=true&hide_border=true" />`
 - It is created by [Anurag Hazra](https://github.com/anuraghazra).
 - You can follow his [repo](https://github.com/anuraghazra/github-readme-stats) for more info and card configurations.
