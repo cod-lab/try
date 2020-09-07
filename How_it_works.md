@@ -12,7 +12,7 @@
 
 <br>
 
-### <u>2. Latest Github Repos</u>
+### <ins>2. Latest Github Repos</ins>
 To display your latest repos which must be updated automatically you need two things:
 
 - `a script which can update your README if there is any update.`
