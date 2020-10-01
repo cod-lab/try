@@ -33,19 +33,3 @@ To display your latest repos which must be updated automatically you need two th
 <br>
 
 > Just upload these files and github CI will automatically start working.
-
-
-
-<!-- ## 3. MY GIHUB STATUS CARD
-- the image you see at the bottom can be created using link:
-- `<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username="username"&show_icons=true&hide_border=true" />`
-- Just add this link in your README:
-- It is also created by [Anurag Hazra](https://github.com/anuraghazra).
-- You can follow his [repo](https://github.com/anuraghazra/github-readme-stats) for more info and configurations.
-
-
-<br><br><br>
-the series of instructions to check and update any change in.
-
-
-can update automatically by  -->
