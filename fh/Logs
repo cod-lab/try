@@ -1,5 +1,21 @@
 {
 	1: {'2020-08-21 01:53:45.382816': 'FileNotFoundError'},
 	2: {'2020-08-21 01:54:09.114345': 'ConnectTimeout'},
-	3: {'2020-08-21 02:00:13.244241': 'Less than 5 repos in github account'}
+	3: {'2020-08-21 02:00:13.244241': 'Less than 5 repos in github account'},
+	4: {'2020-10-07 01:39:06.326575': 'ConnectionError'},
+	5: {'2020-10-07 01:46:03.608882': 'ConnectionError'},
+	6: {'2020-10-07 01:53:23.433299': 'Less than 5 repos in github account'},
+	7: {'2020-10-07 02:12:06.954957': 'ConnectionError'},
+	8: {'2020-10-07 02:13:48.143142': 'ConnectionError'},
+	9: {'2020-10-07 02:14:34.839186': 'ConnectionError'},
+	10: {'2020-10-07 02:14:46.470189': 'ConnectionError'},
+	11: {'2020-10-07 02:15:09.257375': 'ConnectionError'},
+	12: {'2020-10-07 02:42:25.780933': 'ConnectionError'},
+	13: {'2020-10-07 02:43:01.071699': 'Less than 5 repos in github account'},
+	14: {'2020-10-07 03:09:12.604626': 'ConnectionError'},
+	15: {'2020-10-07 03:09:25.193300': 'ConnectionError'},
+	16: {'2020-10-07 03:09:35.290858': 'ConnectionError'},
+	17: {'2020-10-07 03:10:28.301307': 'ConnectionError'},
+	18: {'2020-10-07 03:10:35.832746': 'ConnectionError'},
+	19: {'2020-10-07 03:12:42.359988': 'ConnectionError'}
 }
