@@ -1,4 +1,4 @@
-# DEVTREK <img src="typography2.png" width="23px" height="23px">
+# DEVTREK &nbsp;<img src="typography2.png" width="23px" height="23px">
 
 <span style="color:purple">A Blogging App</span>
 
