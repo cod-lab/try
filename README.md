@@ -2,7 +2,6 @@
 <!-- # [<font color="purple">devTrek</font>](http://devtrek.herokuapp.com) &nbsp;<img src="typography2.png" width="23px" height="23px"> -->
 # <a href="http://devtrek.herokuapp.com" style="color:purple">devTrek</a> &nbsp;<img src="typography2.png" width="23px" height="23px">
 
-
 <!-- <span style="color:purple">A Blogging App</span> -->
 A Blogging App
 
