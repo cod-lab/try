@@ -1,6 +1,9 @@
 <!-- ![<img width="23px" height="23px">](typography2.png) -->
 <!-- # [<font color="purple">devTrek</font>](http://devtrek.herokuapp.com) &nbsp;<img src="typography2.png" width="23px" height="23px"> -->
-# <a href="http://devtrek.herokuapp.com" style="color:purple">devTrek</a> &nbsp;<img src="typography2.png" width="23px" height="23px">
+<!-- # [<span style="color:black">devTrek</span>](http://devtrek.herokuapp.com) &nbsp;<img src="typography2.png" width="23px" height="23px"> -->
+<!-- # <a href="http://devtrek.herokuapp.com" style="color:purple">devTrek</a> &nbsp;<img src="typography2.png" width="23px" height="23px"> -->
+<!-- # <a href="http://devtrek.herokuapp.com"><font color="black">devTrek</font></a> &nbsp;<img src="typography2.png" width="23px" height="23px"> -->
+# [devTrek](http://devtrek.herokuapp.com) &nbsp;<img src="typography2.png" width="23px" height="23px">
 
 <!-- <span style="color:purple">A Blogging App</span> -->
 A Blogging App
@@ -13,6 +16,8 @@ A Blogging App
 * The project is **Continuous Deployment** enabled, i.e., any changes made to the project(in git repo) will automatically be deployed.
 * This project lets users to write down their experiences and discoveries about the technologies to the world.
 * Users can do **CRUD** operations on their posts.
+
+<br>
 
 ## TECH STACK
 
