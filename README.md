@@ -4,7 +4,7 @@
 
 <br>
 
-`This is a blogging site where user can post blogs relating to the wide domain of technology`
+`This is app lets users to post blogs relating to the wide domain of technology`
 
 * This is the basic version of the project. The app will be updated time to time with new features.
 * This project lets users to write down their experiences and discoveries about the technologies to the world.
