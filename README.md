@@ -1,4 +1,4 @@
-# devTrek &nbsp;<img src="typography2.png" width="23px" height="23px">
+# [devTrek](http://devtrek.herokuapp.com) &nbsp;<img src="typography2.png" width="23px" height="23px">
 
 <span style="color:purple">A Blogging App</span>
 
@@ -9,7 +9,7 @@
 * This is the basic version of the project. The app will be updated time to time with new features.
 * The project is **Continuous Deployment** enabled, i.e., any changes made to the project(in git repo) will automatically be deployed.
 * This project lets users to write down their experiences and discoveries about the technologies to the world.
-* Users can do CRUD operations on their posts.
+* Users can do **CRUD** operations on their posts.
 
 ## TECH STACK
 
