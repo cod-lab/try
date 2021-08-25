@@ -1,4 +1,6 @@
-# [devTrek](http://devtrek.herokuapp.com) &nbsp;<img src="typography2.png" width="23px" height="23px">
+# [<font color="black">devTrek</font>](http://devtrek.herokuapp.com) &nbsp;<img src="typography2.png" width="23px" height="23px">
+
+<!-- ![<img width="23px" height="23px">](typography2.png) -->
 
 <span style="color:purple">A Blogging App</span>
 
