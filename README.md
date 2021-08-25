@@ -1,6 +1,6 @@
-# DEVTREK <img src="favicon.ico" width="23px" height="23px">
+# DEVTREK <img src="typography2.png" width="23px" height="23px">
 
-<span style="color:purple">A Blogging App</span>.
+<span style="color:purple">A Blogging App</span>
 
 <br>
 
