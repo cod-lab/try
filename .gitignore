@@ -1,7 +1,8 @@
 *.jpg
 *.png
 *.ico
-
-!New folder/**
-
 *.ini
+
+!2/**
+
+
