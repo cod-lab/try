@@ -1,0 +1,7 @@
+*.jpg
+*.png
+*.ico
+
+!New folder/**
+
+*.ini
